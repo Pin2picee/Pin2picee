@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I code like a dev, I break like a pentester.**
 
+
+![Mon GIF](https://github.com/user-attachments/assets/a76d8cd8-05e7-4e84-b5dc-851cdcd4a684)
 <p align="left">
 </p>
 
@@ -71,6 +73,4 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
   </a>
 </p>
-
-![Mon GIF](https://github.com/user-attachments/assets/a76d8cd8-05e7-4e84-b5dc-851cdcd4a684)
 
