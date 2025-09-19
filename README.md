@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I code like a dev, I break like a pentester.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -22,4 +21,3 @@
 
 ![![212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba](https://github.com/user-attachments/assets/a76d8cd8-05e7-4e84-b5dc-851cdcd4a684)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pin2picee&show_icons=true&locale=en" alt="pin2picee" /></p>
