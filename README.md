@@ -14,7 +14,10 @@
 - ⚡ Fun fact **I code like a dev, I break like a pentester.**
 
 
-![Mon GIF](https://github.com/user-attachments/assets/a76d8cd8-05e7-4e84-b5dc-851cdcd4a684)
+<img src="https://github.com/user-attachments/assets/a76d8cd8-05e7-4e84-b5dc-851cdcd4a684" 
+     alt="Mon GIF" 
+     style="float: right; margin: 0; max-width: 200px; height: auto;" />
+
 <p align="left">
 </p>
 
