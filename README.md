@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pin2picee</h1>
 <h3 align="center">a low-level C/C++/C# language enthusiast, currently at the end of school 42</h3>
-
+<table>
+  <tr>
+    <td>
+      <p>
 - 🔭 I’m currently working on **WEBSERV -42 school**
 
 - 🌱 I’m currently learning **Python HTTPS / TLS 1.3 Assembly Docker Reverse engineering**
@@ -12,12 +15,13 @@
 - 📫 How to reach me **abelmoha.professionnel@gmail.com**
 
 - ⚡ Fun fact **I code like a dev, I break like a pentester.**
-
-
-<img src="https://github.com/user-attachments/assets/a76d8cd8-05e7-4e84-b5dc-851cdcd4a684" 
-     alt="Mon GIF" 
-     style="float: right; margin: 0; max-width: 200px; height: auto;" />
-
+     </p>
+  </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a76d8cd8-05e7-4e84-b5dc-851cdcd4a684" alt="Mon GIF" width="200"/>
+    </td>
+  </tr>
+</table>
 <p align="left">
 </p>
 
